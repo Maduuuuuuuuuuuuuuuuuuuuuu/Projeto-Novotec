@@ -1,0 +1,135 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 89px;
+    width: 500px;
+}
+.pao{
+    background-color: rgb(209, 197, 106);
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 24px;
+    margin: 0;
+    width: 560px;
+    letter-spacing: 1px;
+}
+.maionese-verde{
+    background-color:rgb(120, 158, 121);
+    margin:0;
+    text-align:center;
+    border-radius:16px;
+    padding-top:8px;
+    padding-bottom:8px;
+    margin-left: 80px;
+    letter-spacing: 1px;
+
+    
+}
+.carne-de-hamburguer{
+    background-color:rgb(117, 87, 69);
+    margin:0;
+    text-align:center;
+    border-radius:28px;
+    padding-top:18px;
+    padding-bottom:18px;
+    margin-left: 80px;
+    padding-left: 24px;
+    padding-right: 24px;
+    letter-spacing: 1px;
+    
+   
+}
+.tomate{
+    background-color:rgb(160, 31, 31);
+    margin:0;
+    text-align:center;
+    border-radius:12px;
+    padding: top 8px;
+    padding-bottom:8px;  
+    margin-left: 80px;
+    letter-spacing: 1px;
+    
+}
+.mostarda{
+    background-color:rgb(207, 193, 67);
+    margin:0;
+    text-align:center;
+    border-radius:16px;
+    padding-top:8px;
+    padding-bottom:8px;
+    margin-left: 80px;
+    letter-spacing: 1px;
+    
+}
+.alface{
+    background-color:rgb(73, 156, 63);
+    margin:0;
+    text-align:center;
+    border-radius:16px;
+    padding-top:6px;
+    padding-bottom:6px;  
+    margin-left: 80px;
+    letter-spacing: 1px;
+    
+}
+.ketchup{
+    background-color:rgb(133, 30, 30);
+    margin:0;
+    text-align:center;
+    border-radius:16px;
+    padding-top:4px;
+    padding-bottom:4px;  
+    margin-left: 80px;
+    letter-spacing: 1px;
+
+}
+.batata-palha{
+    background-color:rgb(209, 212, 6);
+    margin:0;
+    text-align: center;
+    border-radius:16px;
+    padding-top:6px;
+    padding-bottom:6px;  
+    margin-left: 80px;
+    letter-spacing: 1px;
+    
+}
+.bacon{
+    background-color:rgb(248, 188, 188);
+    margin:0;
+    text-align: center;
+    border-radius:16px;
+    padding-top:6px;
+    padding-bottom:6px;   
+    margin-left: 80px;
+    letter-spacing: 1px;
+}
+.queijo{
+    background-color:rgb(230, 208, 10);
+    margin:0;
+    text-align: center;
+    border-radius:16px;
+    padding-top:6px;
+    padding-bottom:6px;   
+    margin-left: 80px;
+    letter-spacing: 1px;
+}
+.pao-debaixo{
+    background-color: rgb(209, 197, 106);
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    font-size: 24px;
+    margin: 0;
+    width: 560px;
+    letter-spacing: 1px;
+}
